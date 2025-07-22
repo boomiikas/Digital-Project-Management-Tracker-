@@ -1,4 +1,4 @@
-# 🌈 ZenTask - Project Management System
+# ZenTask - Project Management System
 
 A vibrant and interactive project management dashboard built with HTML, Tailwind CSS, and JavaScript. This system provides a clean and user-friendly interface for managing tasks, tracking timelines, and facilitating team reviews — all wrapped in a modern, gradient-themed UI.
 
