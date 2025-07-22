@@ -33,6 +33,3 @@ A vibrant and interactive project management dashboard built with HTML, Tailwind
 - **Vanilla JavaScript**
 
 ---
-
-## 📁 File Structure
-
